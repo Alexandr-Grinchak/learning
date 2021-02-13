@@ -1,7 +1,19 @@
-I don't feel like doing something.
+﻿I don't feel like doing something.
 a system of 'checks and balances'.
 To pull out all the stops
-You asked for it    Òû ïðîñèë îá ýòîì
+You asked for it
 Did you miss me?
 Hi
 Are you there?
+cd q/GitHub
+git clone
+ls
+cd learning/
+git remote -v
+git status
+git add Demo.txt
+git commit -m"comment"
+git log
+git push
+git pull
+Git GUI&gitk
