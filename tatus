@@ -1,0 +1,36 @@
+[33mcommit 0f3523b193d738ab550154d2d2a368872ad550c8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Alexandr Grinchak <grinchak.alexandr@gmail.com>
+Date:   Sat Feb 13 20:45:52 2021 +0300
+
+    add many lines
+
+[33mcommit d3ed90b91841b27928e4edc4197a40e27ae9f737[m
+Merge: fb81572 e5c4437
+Author: Alexandr Grinchak <grinchak.alexandr@gmail.com>
+Date:   Sat Feb 13 20:27:50 2021 +0300
+
+    Merge branch 'main' of github.com:Alexandr-Grinchak/learning
+
+[33mcommit fb81572b4ba0c2095ee4df832016b538b1a8a00f[m
+Author: Alexandr Grinchak <grinchak.alexandr@gmail.com>
+Date:   Sat Feb 13 20:20:04 2021 +0300
+
+    new
+
+[33mcommit e5c4437d97c984d25485cabcdcdd5081ad621b48[m
+Author: Alexandr-Grinchak <78652615+Alexandr-Grinchak@users.noreply.github.com>
+Date:   Sat Feb 13 20:03:53 2021 +0300
+
+    Add two lines
+
+[33mcommit 5a77fe7ab0d75a058def3e77d84e4208afb08e8e[m
+Author: Alexandr Grinchak <grinchak.alexandr@gmail.com>
+Date:   Sun Feb 7 20:28:51 2021 +0300
+
+    add first 5 lines in the text
+
+[33mcommit 98f4a5afaa5f8a083afec85c04362a99e95e3e4f[m
+Author: Alexandr-Grinchak <78652615+Alexandr-Grinchak@users.noreply.github.com>
+Date:   Sun Feb 7 20:13:56 2021 +0300
+
+    Initial commit
